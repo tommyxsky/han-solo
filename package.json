@@ -1,0 +1,25 @@
+{
+  "name": "han-solo-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommyxsky/han-solo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommyxsky/han-solo/issues"
+  },
+  "homepage": "https://github.com/tommyxsky/han-solo#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "popper": "^1.0.1",
+    "tether": "^1.4.3"
+  }
+}

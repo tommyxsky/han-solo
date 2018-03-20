@@ -1,0 +1,25 @@
+body {
+  color: red;
+}
+
+.current-menu-item > a {
+  background: blue;
+}
+
+h1,
+h2,
+h3,
+h4,
+.site-name {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.main-nav li {
+  display: inline;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  display: inline;
+}
